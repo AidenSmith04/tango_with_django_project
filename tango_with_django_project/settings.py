@@ -118,6 +118,7 @@ USE_L10N = True
 USE_TZ = True
 
 MEDIA_ROOT = MEDIA_DIR
+
 MEDIA_URL = '/media/'
 
 # Static files (CSS, JavaScript, Images)
